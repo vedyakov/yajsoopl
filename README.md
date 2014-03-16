@@ -122,7 +122,7 @@ Yet another js oop library. Library contains two simple classes for inheritance.
                 height: 100
             });
 
-            // элемент нам нужен, так что выведем ошибку
+            // элемент нам нужен, так что выведем ошибку, если его нет
             if ( !self.options.$ ) {
                 console.error( 'options.$ should be defined' );
             } else {
