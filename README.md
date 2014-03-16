@@ -143,7 +143,7 @@ Yet another js oop library. Library contains two simple classes for inheritance.
         init: function( userOptions ){
             var self = this;
 
-            // Опредеяем значения по умолчанию
+            // Определяем значения по умолчанию
             // только для добавившихся настроек
             self.defaultOptions({
                 text: 'Default text'
