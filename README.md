@@ -20,9 +20,6 @@ Yet another js oop library. Library contains two simple classes for inheritance.
 
 Кроме этого хотелось решить проблему однотипных действий работы с параметрами, для этих целей был создан `CommonClass`, который наследуется от `BaseClass`, добавляя два удобных метода для работы с опциями.
 
-Оба класса в двух вариантах размещены [в публичном репозитории](https://github.com/vedyakov/yajsoopl).
-Начнем по порядку и рассмотрим версии с использованием `jQuery`.
-
 Добавить в проект с помощью bower'a можно так
 
     "yajsoopl": "git://github.com/vedyakov/yajsoopl.git",
