@@ -7,7 +7,10 @@ Yet another js oop library. Library contains two simple classes for inheritance.
 * CommonClass – class with usefull options convention and methods.
 
 
+# Описание
+
 Есть важные вещи, которые мне нужны были при наследовании
+
 1. Простое расширение родительского класса.
 2. Автоматический вызов родительских функций инициализации.
 
