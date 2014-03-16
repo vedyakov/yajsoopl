@@ -112,6 +112,9 @@ Yet another js oop library. Library contains two simple classes for inheritance.
         init: function( userOptions ){
             var self = this;
 
+            // По сути userOptions нам здесь уже не нужны
+            // на данный момент они уже объединены с self.options.
+
             // значение по умолчанию
             self.defaultOptions({
                 $: false,
